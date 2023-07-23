@@ -136,4 +136,4 @@ async function silverData() {
   document.getElementById('currentSilver10').innerHTML = silverRateLive10;
   document.getElementById('currentSilver1').innerHTML = silverRateLive1;
   silverRates = [silverRate1,silverRate2,silverRate3,silverRate4,silverRate5];
-};
+}; //
